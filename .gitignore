@@ -1,0 +1,12 @@
+Library
+.vs/TowerDefenseProject/v16/.suo
+.vsconfig
+Assembly-CSharp.csproj
+TowerDefenseProject.sln
+Temp
+UIElementsSchema
+UserSettings
+newrepo
+Logs
+obj
+*.db
